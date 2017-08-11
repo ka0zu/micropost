@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 1000px;
+}
+
+header {
+  background-color: #ffcccc;
+}
+
+#wrapper {
+  width: 1000px;
+  margin: 0 auto;
+  overflow: hidden;
+} 
+
+#main {
+  width: 700px;
+  background-color: #ccffcc;
+  float:left;
+}
+
+#menu {
+  width: 300px;
+  background-color: #ccccff;
+  float:right;
+}
+
+footer {
+  background-color: #ffccff;
+}
